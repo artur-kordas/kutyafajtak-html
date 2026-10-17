@@ -1,16 +1,44 @@
-body{
+body {
 
     background-image: url(../img/background/keith-misner-h0Vxgz5tyXA-unsplash.jpg);
     color: brown
-
 }
 
-h1{
+h1 {
 
     text-align: center;
 
 }
 
-a, a:link, a:visited, a:hover, a:active {
+a,
+a:link,
+a:visited,
+a:hover,
+a:active {
     color: darkslategray;
+}
+
+p {
+
+    line-height: 1.5;
+    text-indent: 1cm;
+
+}
+
+.kepek {
+    text-align: center;
+    float: none;
+
+}
+
+.kep{
+
+    width: 280px;
+    vertical-align: middle;
+    background-color: white;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #4d0808;
+    box-shadow: 3px 3px 10px  #4d0808;
+
 }

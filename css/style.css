@@ -31,7 +31,7 @@ p {
 
 }
 
-.kep{
+.kep {
 
     width: 280px;
     vertical-align: middle;
@@ -39,22 +39,31 @@ p {
     padding: 10px;
     margin: 5px;
     border: 1px solid #4d0808;
-    box-shadow: 3px 3px 10px  #4d0808;
+    box-shadow: 3px 3px 10px #4d0808;
 
 }
 
-table{
+table {
 
-        border-collapse: collapse;
-        margin: 0 auto;
-   
+    border-collapse: collapse;
+    margin: 0 auto;
+
 }
 
 td {
 
-border: 1px solid #aa7777;
-padding: 0.5rem;
+    border: 1px solid #aa7777;
+    padding: 0.5rem;
 
 
 }
 
+.minikep{
+
+    float: right;
+    width: 400px;
+    margin-left: 20px;
+    border: 3px solid #4d0808;
+
+
+}
